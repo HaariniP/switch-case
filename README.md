@@ -26,3 +26,6 @@ public static void main(String[] args) {
         }
     }
 }
+Output 
+Enter a number (1-5): 3
+Good day
